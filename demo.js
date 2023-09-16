@@ -1,3 +1,3 @@
-console.log("hello world")
+console.log("This just craeted for demo purpose")
 
-console.log("hello world11")
+
